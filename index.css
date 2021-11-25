@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+
+#wrapper{
+    background-color: gray;
+    height:  100vh;
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#wrapper > div{
+    font-size: 40px;
+}
+
